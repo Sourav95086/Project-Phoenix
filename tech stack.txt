@@ -1,0 +1,33 @@
+cyber project 
+
+tech stack
+
+
+brain 
+ml
+fast api
+ngix
+
+
+faulty web app
+flask
+sql
+
+
+Primary DB:
+
+PostgreSQL
+
+Stores:
+
+Logs
+
+Extracted features
+
+Incident history
+
+Blocked IPs
+
+PyTorch
+
+llm open api
